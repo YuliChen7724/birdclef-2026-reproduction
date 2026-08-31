@@ -1,0 +1,29 @@
+# Competition data and generated artifacts
+data/
+outputs/
+checkpoints/
+models/
+embeddings/
+
+# Credentials and environment
+.env
+.kaggle/
+kaggle.json
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Model files
+*.pt
+*.pth
+*.ckpt
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
